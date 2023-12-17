@@ -354,6 +354,7 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Course Library/_Source_Files/Scripts/DestroyAfterDelay.cs"
+"Assets/Scripts/DifficultyButton.cs"
 "Assets/Scripts/GameManager.cs"
 "Assets/Scripts/Target.cs"
 -langversion:9.0
